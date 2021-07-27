@@ -1,0 +1,19 @@
+{
+  "name": "generator-federation-subgraph",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "inquirer-npm-name": "^4.0.0",
+    "mkdirp": "^1.0.4",
+    "yeoman-generator": "^5.4.0",
+    "yosay": "^2.0.2"
+  },
+  "files": [
+    "generators"
+  ]
+}
